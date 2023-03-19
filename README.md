@@ -1,2 +1,2 @@
 # react-starting-project
- React starting projects
+ Some React starting projects
